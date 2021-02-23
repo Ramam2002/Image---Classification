@@ -1,0 +1,12 @@
+#Description:
+
+This mini project is about classifying images that are given as input
+
+ 1. here, I've used "bing.downloader" to have a few testing and training data for my ML based Model
+ 2. Then, images are classified based on their similarity to the testing data, for which I have put a small code for testing the accuracy 
+ 3. Lastly, input the URL of the picture and you will be able to determine it's category
+ 
+#Improvements:
+ 
+  I've only used 50 images per category, which limits the diverse perspectives, and hence, the program might fail in identifying the picture, hence APK with tonnes of testing data need to be used in-order to improve the accuracy
+  
